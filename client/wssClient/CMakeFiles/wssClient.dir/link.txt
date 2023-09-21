@@ -1,0 +1,1 @@
+/usr/bin/c++   -fpermissive -g CMakeFiles/wssClient.dir/client.cpp.o -o ../out/wssClient   -L/home/liushangyang/dev/mouseu/wss_demo/client/../lib  -Wl,-rpath,/home/liushangyang/dev/mouseu/wss_demo/client/../lib -lssl -lcrypto -lpthread -lwebsockets -lm -lrt -ldl 

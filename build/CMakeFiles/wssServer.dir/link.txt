@@ -1,0 +1,1 @@
+/usr/bin/c++   -fpermissive -g CMakeFiles/wssServer.dir/server.cpp.o -o ../out/wssServer   -L/home/liushangyang/dev/mouseu/wss_demo/lib  -Wl,-rpath,"\$ORIGIN" -lssl -lcrypto -lpthread -lwebsockets -lm -lrt -ldl 
